@@ -8,7 +8,7 @@
 |6|[ft_transcendence](../../../42-transcendence)		|	[100%]|
 |5|[webserv](../../../42-webserv)						|	[93%]|
 |5|[Inception](../../../42-inception)					|	[100%]|
-|4|[miniRT](../../../)									|	[100%]|
+|4|[miniRT](../../../42-minirt)									|	[100%]|
 |4|[C++ Modules](../../../42-cpp-modules)				|	[99%]|
 |4|NetPractice										|	[100%]|
 |3|[minishell](../../../42-minishell)					|	[96%]|
