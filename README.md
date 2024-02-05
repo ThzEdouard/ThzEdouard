@@ -13,7 +13,7 @@
 |4|[NetPractice]()										|	[100%]|
 |3|[minishell](../../../42-minishell)					|	[96%]|
 |3|[Philosophers](../../../42-philosophers)				|	[100%]()|
-|2|[minitalk](../../../42-pipex)						|	[125%]|
+|2|[minitalk](../../../42-minitalk)						|	[125%]|
 |2|[push_swap](../../../42-push-swap)					|	[94%]|
 |2|[so_long](../../../42-so-long)						|	[110%]|
 |1|[ft_printf](../../../42-printf)						|	[100%]|
