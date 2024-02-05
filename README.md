@@ -18,7 +18,7 @@
 |2|[so_long](../../../42-so-long)						|	[110%]|
 |1|[ft_printf](../../../42-printf)						|	[100%]|
 |1|[get_next_line](../../../42-get-next-line)			|	[112%]|
-|1|[Born2beroot]()										|	[110%]|
+|1|[Born2beroot]          								|	[110%]|
 |0|[Libft](../../../42-libft)							|	[120%]|
   
 </div>
