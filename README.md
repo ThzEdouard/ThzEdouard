@@ -23,7 +23,7 @@
   
 </div>
 <br/>
-<div align="center">
+<div>
   
 <p> Cryptography & Maths </p>
 
