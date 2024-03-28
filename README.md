@@ -22,3 +22,11 @@
 |0|[Libft](../../../42-libft)							|	[120%]|
   
 </div>
+<br/>
+<div align="center">
+|Cryptography & Maths|
+|Project|Grade|
+|:--:|--|
+|[ft_ssl_md5](../../../ft_ssl_md5)|[100%]|
+  
+</div>
