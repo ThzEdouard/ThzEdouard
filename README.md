@@ -24,7 +24,7 @@
 </div>
 <br/>
 <div align="center">
-|Cryptography & Maths|
+<p> Cryptography & Maths </p>
 |Project|Grade|
 |:--:|--|
 |[ft_ssl_md5](../../../ft_ssl_md5)|[100%]|
