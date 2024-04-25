@@ -23,6 +23,7 @@
   
 </div>
 <br/>
+<div style="display: flex; justify-content: space-between;">
 <div>
   
 <p> Cryptography & Maths </p>
@@ -49,4 +50,5 @@
 |:--:|--|
 |[ft_ssl_md5](../../../ft_ssl_md5)|[100%]|
   
+</div>
 </div>
