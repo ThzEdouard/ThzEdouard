@@ -33,22 +33,4 @@
 |[ft_ssl_md5](../../../ft_ssl_md5)|[100%]|
   
 </div>
-<div>
-  
-<p> Cryptography & Maths </p>
-
-|Project|Grade|
-|:--:|--|
-|[ft_ssl_md5](../../../ft_ssl_md5)|[100%]|
-  
-</div>
-<div>
-  
-<p> Cryptography & Maths </p>
-
-|Project|Grade|
-|:--:|--|
-|[ft_ssl_md5](../../../ft_ssl_md5)|[100%]|
-  
-</div>
 </div>
