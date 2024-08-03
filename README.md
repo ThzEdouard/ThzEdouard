@@ -31,6 +31,6 @@
 |Project|Grade|
 |:--:|--|
 |[ft_ssl_md5](../../../ft_ssl_md5)|[100%]|
-  
+|[Darkly web](../../../Darkly )|[100%]|
 </div>
 </div>
