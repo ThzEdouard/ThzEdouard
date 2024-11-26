@@ -3,7 +3,6 @@
 
 <section style="display: flex; justify-content: center; align-items: center; flex-direction: column; gap: 10px;">
 	<div>
-
 		|◯|Project|Grade|
 		|:--:|:--:|--|
 		|6|[ft_transcendence](../../../42-transcendence)		|	[100%]|
@@ -21,13 +20,11 @@
 		|1|[get_next_line](../../../42-get-next-line)			|	[112%]|
 		|1|Born2beroot  								|	[110%]|
 		|0|[Libft](../../../42-libft)							|	[120%]|
-
 	</div>
 	<br/>
 	<div style="display: flex; flex-direction: row; gap: 10px;">
 		<div>
 			<p> Cryptography & Maths </p>
-
 			|Project|Grade|
 			|:--:|--|
 			|[ft_ssl_md5](../../../ft_ssl_md5)|[100%]|
@@ -38,6 +35,6 @@
 			|Project|Grade|
 			|:--:|--|
 			|[ft_linear_regression](../../../ft_linear_regression)|[125%]|
-			</div>
+		</div>
 	</div>
 </section>
