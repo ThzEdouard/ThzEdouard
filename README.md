@@ -1,7 +1,7 @@
 #
 
 
-<section style="display: flex; justify-content: center; align-items: center; flex-direction: column; gap: 10px;">
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; gap: 10px;">
 	<div>
 		|◯|Project|Grade|
 		|:--:|:--:|--|
@@ -37,4 +37,4 @@
 			|[ft_linear_regression](../../../ft_linear_regression)|[125%]|
 		</div>
 	</div>
-</section>
+</div>
