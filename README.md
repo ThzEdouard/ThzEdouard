@@ -33,4 +33,10 @@
 |[ft_ssl_md5](../../../ft_ssl_md5)|[100%]|
 |[Darkly web](../../../Darkly )|[100%]|
 </div>
+<div>
+<p> Algo & AI & Data </p>
+|Project|Grade|
+|:--:|--|
+|[ft_linear_regression](../../../ft_linear_regression)|[125%]|
+</div>
 </div>
