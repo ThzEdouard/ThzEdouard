@@ -1,42 +1,43 @@
 #
 
 
-<div align="center">
+<section style="display: flex; justify-content: center; align-items: center; flex-direction: column; gap: 10px;">
+	<div>
 
-|◯|Project|Grade|
-|:--:|:--:|--|
-|6|[ft_transcendence](../../../42-transcendence)		|	[100%]|
-|5|[webserv](../../../42-webserv)						|	[93%]|
-|5|[Inception](../../../42-inception)					|	[100%]|
-|4|[miniRT](../../../42-minirt)									|	[100%]|
-|4|[C++ Modules](../../../42-cpp-modules)				|	[99%]|
-|4|NetPractice										|	[100%]|
-|3|[minishell](../../../42-minishell)					|	[96%]|
-|3|[Philosophers](../../../42-philosophers)				|	[100%]|
-|2|[minitalk](../../../42-minitalk)						|	[125%]|
-|2|[push_swap](../../../42-push-swap)					|	[94%]|
-|2|[so_long](../../../42-so-long)						|	[110%]|
-|1|[ft_printf](../../../42-printf)						|	[100%]|
-|1|[get_next_line](../../../42-get-next-line)			|	[112%]|
-|1|Born2beroot  								|	[110%]|
-|0|[Libft](../../../42-libft)							|	[120%]|
-  
-</div>
-<br/>
-<div style="display: flex; justify-content: space-between;">
-<div>
-  
-<p> Cryptography & Maths </p>
+		|◯|Project|Grade|
+		|:--:|:--:|--|
+		|6|[ft_transcendence](../../../42-transcendence)		|	[100%]|
+		|5|[webserv](../../../42-webserv)						|	[93%]|
+		|5|[Inception](../../../42-inception)					|	[100%]|
+		|4|[miniRT](../../../42-minirt)									|	[100%]|
+		|4|[C++ Modules](../../../42-cpp-modules)				|	[99%]|
+		|4|NetPractice										|	[100%]|
+		|3|[minishell](../../../42-minishell)					|	[96%]|
+		|3|[Philosophers](../../../42-philosophers)				|	[100%]|
+		|2|[minitalk](../../../42-minitalk)						|	[125%]|
+		|2|[push_swap](../../../42-push-swap)					|	[94%]|
+		|2|[so_long](../../../42-so-long)						|	[110%]|
+		|1|[ft_printf](../../../42-printf)						|	[100%]|
+		|1|[get_next_line](../../../42-get-next-line)			|	[112%]|
+		|1|Born2beroot  								|	[110%]|
+		|0|[Libft](../../../42-libft)							|	[120%]|
 
-|Project|Grade|
-|:--:|--|
-|[ft_ssl_md5](../../../ft_ssl_md5)|[100%]|
-|[Darkly web](../../../Darkly )|[100%]|
-</div>
-<div>
-<p> Algo & AI & Data </p>
-|Project|Grade|
-|:--:|--|
-|[ft_linear_regression](../../../ft_linear_regression)|[125%]|
-</div>
-</div>
+	</div>
+	<br/>
+	<div style="display: flex; flex-direction: row; gap: 10px;">
+		<div>
+			<p> Cryptography & Maths </p>
+
+			|Project|Grade|
+			|:--:|--|
+			|[ft_ssl_md5](../../../ft_ssl_md5)|[100%]|
+			|[Darkly web](../../../Darkly )|[100%]|
+		</div>
+		<div>
+			<p> Algo & AI & Data </p>
+			|Project|Grade|
+			|:--:|--|
+			|[ft_linear_regression](../../../ft_linear_regression)|[125%]|
+			</div>
+	</div>
+</section>
