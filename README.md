@@ -24,11 +24,12 @@
 
 </div>
 
----
-
 ## Additional Projects
 
-| **Cryptography & Maths**              | **Grade**  || **Algo, AI & Data**                    | **Grade**  |
-|---------------------------------------|------------||----------------------------------------|------------|
-| [ft_ssl_md5](../../../ft_ssl_md5)    | 100%       || [ft_linear_regression](../../../ft_linear_regression) | 125%       |
-| [Darkly web](../../../Darkly)        | 100%       ||                                        |            |
+| **Cryptography & Maths**              | **Grade**  | **Algo, AI & Data**                    | **Grade**  |
+|---------------------------------------|------------|----------------------------------------|------------|
+| [ft_ssl_md5](../../../ft_ssl_md5)     | 100%       | [ft_linear_regression](../../../ft_linear_regression) | 125%       |
+| [Darkly web](../../../Darkly)         | 125%       |                                        |            |
+
+
+---
